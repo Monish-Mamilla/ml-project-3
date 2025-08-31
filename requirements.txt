@@ -7,3 +7,4 @@ seaborn
 xgboost==2.0.3
 mlflow==2.4.2
 python-dotenv
+streamlit>=1.36,<2
